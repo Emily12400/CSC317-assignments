@@ -43,3 +43,54 @@ header, footer {
 
 /* WRITE YOUR styling/typesetting CSS code BELOW HERE */
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+html {
+  font-size: 0.625rem;  /* 10px */
+}
+
+h1 { font-size: 2rem; }   /* 32px */
+h2 { font-size: 1.5rem; } /* 24px */
+h3 { font-size: 1.2rem; } /* 19.2px */
+
+body {
+  line-height: 1.6;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1, h2, h3 {
+  letter-spacing: 0.05rem;
+}
+
+body {
+  letter-spacing: 0.02rem;
+  word-spacing: 0.05rem;
+}
+
+section p:first-of-type {
+  text-indent: 1.25rem;
+}
+
+/* Link states styling */
+a:link {
+  color: #cc8899; 
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #996670;
+}
+
+a:hover {
+  color: #e5aabf;
+  text-decoration: none;
+}
+
+a:focus {
+  color: #d48fa3; 
+  outline: none;
+}
