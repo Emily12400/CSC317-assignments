@@ -37,8 +37,8 @@ header, section, aside, nav, footer {
 /* header and footer */
 
 header, footer {
-  border-top: 5px solid #d8a6b4;
-  border-bottom: 5px solid #d8a6b4;
+  border-top: 5px solid #f8c8dc;
+  border-bottom: 5px solid #f8c8dc;
 }
 
 /* WRITE YOUR styling/typesetting CSS code BELOW HERE */
@@ -112,10 +112,10 @@ nav a {
   padding: 0.5rem 1rem;   
   color: #333;           
   text-decoration: none;  
-  border-left: 4px solid #d8a6b4; 
+  border-left: 4px solid #f8c8dc; 
 }
 
 nav a:hover {
   background-color: #f5f0e6; 
-  color: #d8a6b4;               
+  color: #f8c8dc;               
 }
