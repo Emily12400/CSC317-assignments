@@ -77,22 +77,22 @@ section p:first-of-type {
 
 /* Link states styling */
 a:link {
-  color: #8B4513; 
+  color:#668866; 
   text-decoration: underline;
 }
 
 a:visited {
-  color: #5C4033;
+  color: #556655;
 }
 
 a:hover {
-  color: #A0522D;
+  color: #88aa88;
   text-decoration: none;
 }
 
 
 a:focus {
-  color: #CD853F; 
+  color: #779977; 
   outline: none;
 }
 
