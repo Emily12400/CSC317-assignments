@@ -77,22 +77,22 @@ section p:first-of-type {
 
 /* Link states styling */
 a:link {
-  color: #cc8899; 
+  color: #8B4513; 
   text-decoration: underline;
 }
 
 a:visited {
-  color: #996670;
+  color: #5C4033;
 }
 
 a:hover {
-  color: #e5aabf;
+  color: #A0522D;
   text-decoration: none;
 }
 
 
 a:focus {
-  color: #d48fa3; 
+  color: #CD853F; 
   outline: none;
 }
 
@@ -116,6 +116,6 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #f9f2f4; 
-  color: #a66;               
+  background-color: #f5f0e6; 
+  color: #8B4513;               
 }
