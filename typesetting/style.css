@@ -1,4 +1,4 @@
-ㅌ/* remove thic comment to add @import font or CSS variables at the top of this file */
+/* remove thic comment to add @import font or CSS variables at the top of this file */
 * {
   box-sizing: border-box;
 }
@@ -77,22 +77,22 @@ section p:first-of-type {
 
 /* Link states styling */
 a:link {
-  color:#ff6600; 
+  color:#81007f; 
   text-decoration: underline;
 }
 
 a:visited {
-  color: #cc5200;
+  color: #702963;
 }
 
 a:hover {
-  color: #ff944d;
+  color: #B200ED;
   text-decoration: none;
 }
 
 
 a:focus {
-  color: #e67300; 
+  color: #B660CD; 
   outline: none;
 }
 
